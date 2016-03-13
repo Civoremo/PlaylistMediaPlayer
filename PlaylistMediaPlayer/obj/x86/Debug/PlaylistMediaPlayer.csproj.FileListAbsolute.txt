@@ -1,0 +1,56 @@
+C:\Users\NtD\documents\visual studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\Interop.AXVLC.dll
+C:\Users\NtD\documents\visual studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\NtD\documents\visual studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\AxInterop.AXVLC.dll
+C:\Users\NtD\documents\visual studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\NtD\documents\visual studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\NtD\documents\visual studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\PlaylistMediaPlayer.exe
+C:\Users\NtD\documents\visual studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\PlaylistMediaPlayer.pdb
+C:\Users\NtD\documents\visual studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\Interop.AXVLC.dll
+C:\Users\NtD\documents\visual studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\NtD\documents\visual studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\NtD\documents\visual studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\NtD\documents\visual studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.Form1.resources
+C:\Users\NtD\documents\visual studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.Properties.Resources.resources
+C:\Users\NtD\documents\visual studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.csproj.GenerateResource.Cache
+C:\Users\NtD\documents\visual studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.exe
+C:\Users\NtD\documents\visual studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.pdb
+E:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\Interop.AXVLC.dll
+E:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+E:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\AxInterop.AXVLC.dll
+E:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.csproj.ResolveComReference.cache
+E:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.exe
+E:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.pdb
+E:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\PlaylistMediaPlayer.exe
+E:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\PlaylistMediaPlayer.pdb
+E:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\Interop.AXVLC.dll
+E:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\AxInterop.AXVLC.dll
+E:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.Form1.resources
+E:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.Properties.Resources.resources
+E:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.csproj.GenerateResource.Cache
+C:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\Interop.AXVLC.dll
+C:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\AxInterop.AXVLC.dll
+C:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.csproj.ResolveComReference.cache
+C:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.exe
+C:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.pdb
+C:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\PlaylistMediaPlayer.exe
+C:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\PlaylistMediaPlayer.pdb
+C:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\Interop.AXVLC.dll
+C:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\AxInterop.AXVLC.dll
+C:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.Form1.resources
+C:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.Properties.Resources.resources
+C:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.csproj.GenerateResource.Cache
+C:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\PlaylistMediaPlayer.exe.manifest
+C:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\PlaylistMediaPlayer.application
+C:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.exe.manifest
+C:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.application
+E:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\PlaylistMediaPlayer.exe.manifest
+E:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\bin\Debug\PlaylistMediaPlayer.application
+E:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.exe.manifest
+E:\C# files\Visual Studio 2010\Projects\PlaylistMediaPlayer\PlaylistMediaPlayer\obj\x86\Debug\PlaylistMediaPlayer.application
